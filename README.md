@@ -1,141 +1,211 @@
-# Smart Adaptive Learning & Weak Topic Detection Platform
+# 🚀 MANIHUB Smart Adaptive Learning Protocol
 
-A production-grade MERN stack intelligent assessment and preparation system that adapts to student performance, detects weak areas, and provides personalized learning paths.
+<div align="center">
 
-## 🚀 Features
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=240&section=header&text=MANIHUB&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Adaptive%20Learning%20%26%20Weak%20Topic%20Detection%20System&descAlignY=60&descSize=18" />
 
-### 🔐 Authentication & Authorization
-- Secure JWT-based authentication with access and refresh tokens
-- Role-based access control (Admin & Student)
-- Password hashing and email validation
-- Protected routes and secure API handling
+<br/>
 
-### 📝 Intelligent Question System
-- Hierarchical structure: Subject → Topic → Subtopic → Concept
-- Difficulty levels, tags, and expected solving time
-- Comprehensive explanations for each question
-- Full CRUD operations (Admin)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=AI-Powered+Learning+Platform;Adaptive+Difficulty+Engine;Weak+Topic+Detection+System;Interview+Readiness+Prediction;Personalized+Learning+Protocols" />
 
-### 🎯 Advanced Quiz Engine
-- **Practice Mode**: Learn at your own pace
-- **Timed Assessment Mode**: Simulate real exam conditions
-- **Revision Mode**: Focus on previously incorrect answers
+<br/><br/>
 
-### 🧠 Adaptive Difficulty Engine
-- Automatic difficulty adjustment based on performance
-- Real-time intelligence that learns from your behavior
-- Consecutive correct answers → Increased difficulty
-- Repeated mistakes → Decreased difficulty
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-black?style=for-the-badge&logo=vercel&logoColor=red)](https://smart-learning-platform-zeta.vercel.app/)
+[![Frontend](https://img.shields.io/badge/Frontend-React-black?style=for-the-badge&logo=react&logoColor=red)]()
+[![Backend](https://img.shields.io/badge/Backend-Node.js-black?style=for-the-badge&logo=node.js&logoColor=red)]()
+[![Database](https://img.shields.io/badge/Database-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=red)]()
 
-### 📊 Weak Topic Detection
-- Mastery score calculation using weighted accuracy
-- Recency-based performance tracking
-- Persistent mistake memory
-- Intelligent prioritization of weak concepts
+</div>
 
-### 🎓 Prediction & Intelligence
-- **Interview Readiness Score**: Comprehensive assessment based on:
-  - Accuracy and speed consistency
-  - Improvement trends
-  - Confidence behavior patterns
-- **Personalized Learning Path**: Dynamic recommendations for topics and practice sets
+---
 
-### 📈 Analytics Dashboard
-- **Student Dashboard**:
-  - Progress charts and trend graphs
-  - Topic mastery heatmap
-  - Attempt history timeline
-  - Readiness score meter
-- **Admin Dashboard**:
-  - Overall student analytics
-  - Question bank management
-  - User management
+# 🧠 System Overview
 
-### 🔒 Security Features
-- Input sanitization
-- Rate limiting
-- CORS protection
-- Secure password hashing
-- Activity logging
+**MANIHUB Smart Adaptive Learning Protocol** is a production-grade AI-powered assessment and learning intelligence platform engineered using the MERN Stack.
 
-## 🛠️ Tech Stack
+The system dynamically adapts to student performance, detects weak concepts, predicts interview readiness, and generates personalized learning pathways using intelligent analytics protocols.
 
-### Frontend
-- **React**: UI framework
-- **React Router**: Navigation and protected routes
-- **Axios**: HTTP client
-- **Chart.js / Recharts**: Data visualization
-- **CSS Modules**: Styling
+---
 
-### Backend
-- **Node.js**: Runtime environment
-- **Express.js**: Web framework
-- **MongoDB**: Database
-- **Mongoose**: ODM
-- **JWT**: Authentication
-- **bcrypt**: Password hashing
-- **express-validator**: Input validation
-- **express-rate-limit**: Rate limiting
+# ⚡ Core Features
 
-## 📁 Project Structure
+## 🔐 Authentication Protocol
 
+- JWT-Based Authentication
+- Access & Refresh Tokens
+- Role-Based Access Control
+- Secure Password Encryption
+- Protected API Routes
+
+---
+
+## 📝 Intelligent Question Framework
+
+- Hierarchical Learning Structure
+- Subject → Topic → Subtopic → Concept
+- Difficulty-Based Classification
+- Smart Tagging System
+- Comprehensive Explanations
+- Full CRUD Operations
+
+---
+
+## 🎯 Advanced Assessment Engine
+
+### Practice Mode
+- Self-paced learning environment
+- Intelligent concept reinforcement
+
+### Timed Assessment Mode
+- Real exam simulation
+- Performance pressure analysis
+
+### Revision Mode
+- Focused weak-topic revision
+- Mistake recovery system
+
+---
+
+## 🧠 Adaptive Intelligence Engine
+
+- Dynamic Difficulty Adjustment
+- Real-Time Behavioral Analysis
+- Performance-Based Question Scaling
+- Consecutive Accuracy Monitoring
+- Mistake-Based Learning Optimization
+
+---
+
+## 📊 Weak Topic Detection System
+
+- Mastery Score Calculation
+- Weighted Accuracy Algorithms
+- Persistent Mistake Tracking
+- Concept Priority Ranking
+- Performance Heatmaps
+
+---
+
+## 🎓 Prediction Intelligence Protocol
+
+### Interview Readiness Score
+
+Calculated using:
+- Accuracy Consistency
+- Speed Metrics
+- Improvement Trends
+- Confidence Behavior
+- Topic Mastery Levels
+
+### Personalized Learning Path
+
+- Dynamic Topic Recommendations
+- Smart Practice Scheduling
+- AI-Based Study Prioritization
+
+---
+
+# 📈 Analytics Dashboard
+
+## 👨‍🎓 Student Dashboard
+
+- Progress Tracking Charts
+- Mastery Heatmaps
+- Quiz Timeline History
+- Readiness Score Meter
+- Performance Trends
+
+---
+
+## 👨‍💻 Admin Dashboard
+
+- Student Analytics Monitoring
+- Question Bank Management
+- User Management System
+- Activity Audit Logs
+
+---
+
+# 🔒 Security Infrastructure
+
+- Input Sanitization
+- Rate Limiting
+- Secure API Validation
+- CORS Protection
+- Activity Logging
+- bcrypt Encryption
+
+---
+
+# 🧰 Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,css,git,github,vscode" />
+
+</div>
+
+---
+
+# 🏗️ System Architecture
+
+```txt
+Student Interface (React.js)
+            ↓
+Assessment Engine
+            ↓
+REST API Gateway (Express.js)
+            ↓
+Authentication Layer (JWT)
+            ↓
+Adaptive Intelligence Core
+            ↓
+MongoDB Neural Data Storage
+            ↓
+Prediction & Analytics Engine
 ```
-Smart-Adaptive-Learning-Platform/
-├── frontend/                 # React application
-│   ├── public/
-│   ├── src/
-│   │   ├── components/      # Reusable components
-│   │   ├── pages/           # Page components
-│   │   ├── context/         # Context API
-│   │   ├── utils/           # Utility functions
-│   │   ├── services/        # API services
-│   │   └── App.js
-│   └── package.json
-│
-└── backend/                 # Node.js + Express server
-    ├── config/              # Configuration files
-    ├── controllers/         # Route controllers
-    ├── models/              # Mongoose models
-    ├── routes/              # API routes
-    ├── middleware/          # Custom middleware
-    ├── utils/               # Utility functions
-    ├── server.js
-    └── package.json
+
+---
+
+# 🛠️ Installation Protocol
+
+## 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/22230902mani/Smart-Learning-Platform.git
+cd Smart-Learning-Platform
 ```
 
-## 🚦 Getting Started
+---
 
-### Prerequisites
-- Node.js (v14 or higher)
-- MongoDB (local or Atlas)
-- npm or yarn
-
-### Backend Setup
+## 2️⃣ Backend Initialization
 
 ```bash
 cd backend
 npm install
 ```
 
-Create a `.env` file in the backend directory:
+Create `.env` file:
 
 ```env
 PORT=5000
-MONGODB_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret_key
-JWT_REFRESH_SECRET=your_refresh_token_secret
+MONGODB_URI=your_mongodb_connection
+JWT_SECRET=your_secret_key
+JWT_REFRESH_SECRET=your_refresh_secret
 JWT_EXPIRE=15m
 JWT_REFRESH_EXPIRE=7d
 NODE_ENV=development
 ```
 
-Start the backend server:
+Run Backend:
 
 ```bash
 npm start
 ```
 
-### Frontend Setup
+---
+
+## 3️⃣ Frontend Initialization
 
 ```bash
 cd frontend
@@ -143,86 +213,150 @@ npm install
 npm start
 ```
 
-The application will open at `http://localhost:3000`
+Frontend runs on:
 
-## 🗄️ Database Collections
-
-- **Users**: User authentication and profile data
-- **Topics**: Subject hierarchy (Subject → Topic → Subtopic → Concept)
-- **Questions**: Question bank with metadata
-- **Attempts**: Quiz attempt records
-- **MistakeLogs**: Persistent mistake tracking
-- **TopicStats**: Topic mastery and performance metrics
-- **Predictions**: Interview readiness and recommendations
-- **ActivityLogs**: System activity audit trail
-
-## 🔑 API Endpoints
-
-### Authentication
-- `POST /api/auth/register` - Student registration
-- `POST /api/auth/login` - User login
-- `POST /api/auth/refresh` - Refresh access token
-- `POST /api/auth/logout` - User logout
-
-### Questions (Admin)
-- `GET /api/questions` - Get all questions
-- `POST /api/questions` - Create question
-- `PUT /api/questions/:id` - Update question
-- `DELETE /api/questions/:id` - Delete question
-
-### Quiz
-- `POST /api/quiz/start` - Start quiz session
-- `POST /api/quiz/submit` - Submit answer
-- `GET /api/quiz/results/:sessionId` - Get quiz results
-
-### Analytics
-- `GET /api/analytics/student/:id` - Student performance data
-- `GET /api/analytics/admin` - Overall analytics (Admin)
-- `GET /api/analytics/weak-topics/:userId` - Weak topic analysis
-- `GET /api/analytics/readiness/:userId` - Interview readiness score
-
-### Admin
-- `GET /api/admin/users` - Get all users
-- `PUT /api/admin/users/:id` - Update user
-- `DELETE /api/admin/users/:id` - Delete user
-- `GET /api/admin/activity-logs` - Get activity logs
-
-## 👥 User Roles
-
-### Student
-- Register and login
-- Take quizzes in multiple modes
-- View personalized dashboard
-- Track progress and weak topics
-- View interview readiness score
-- Update profile
-
-### Admin
-- All student capabilities
-- Manage question bank (CRUD)
-- Manage topics and hierarchy
-- View all student analytics
-- Manage users
-- View activity logs
-
-## 🎨 UI/UX Features
-
-- Responsive design for all devices
-- Clean and intuitive navigation
-- Real-time feedback during quizzes
-- Interactive charts and visualizations
-- Dark/Light theme support
-- Loading states and error handling
-- Toast notifications
-
-## 📜 License
-
-MIT License - feel free to use this project for learning and development.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
+```txt
+http://localhost:3000
+```
 
 ---
 
-Built with ❤️ using the MERN stack
+# 🗄️ Neural Database Collections
+
+| Collection | Purpose |
+|---|---|
+| Users | Authentication & Profiles |
+| Topics | Learning Hierarchy |
+| Questions | Question Intelligence Bank |
+| Attempts | Quiz History |
+| MistakeLogs | Persistent Weakness Tracking |
+| TopicStats | Performance Metrics |
+| Predictions | Readiness Predictions |
+| ActivityLogs | System Audit Logs |
+
+---
+
+# 🔑 API Infrastructure
+
+## Authentication APIs
+
+- Register Protocol
+- Login System
+- Refresh Token Validation
+- Secure Logout
+
+---
+
+## Question APIs
+
+- Fetch Questions
+- Create Questions
+- Update Questions
+- Delete Questions
+
+---
+
+## Quiz APIs
+
+- Start Assessment Session
+- Submit Responses
+- Generate Results
+- Analyze Performance
+
+---
+
+## Analytics APIs
+
+- Student Analytics
+- Weak Topic Analysis
+- Readiness Prediction
+- Admin Intelligence Dashboard
+
+---
+
+# 👥 User Role Matrix
+
+| Role | Access Level |
+|---|---|
+| Student | Learning & Assessment Access |
+| Admin | Full System Intelligence Control |
+
+---
+
+# 🚀 Deployment Infrastructure
+
+| Layer | Service |
+|---|---|
+| Frontend | Vercel |
+| Backend | Render |
+| Database | MongoDB Atlas |
+
+---
+
+# 🌌 Premium UI Highlights
+
+- Futuristic Dashboard Design
+- Interactive Data Visualizations
+- Dark Theme Interfaces
+- Real-Time Analytics Panels
+- Adaptive Quiz UI
+- Responsive Mobile Experience
+- Animated System Components
+- Intelligent User Feedback
+
+---
+
+# 📈 Future Enhancements
+
+- AI Voice Learning Assistant
+- Predictive Performance Forecasting
+- Gamified Learning Protocols
+- Multi-Language Learning Engine
+- AI Interview Simulation
+- Neural Study Recommendation Engine
+
+---
+
+# 👨‍💻 Developer
+
+## 🚀 Manikanta Lukka
+
+Full Stack & AI Developer passionate about intelligent learning systems, adaptive analytics, and futuristic web experiences.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/22230902mani">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=red"/>
+</a>
+
+<a href="https://22230902mani.github.io/MY_PORTFOLIO/">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=red"/>
+</a>
+
+<a href="mailto:manilukka143@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red"/>
+</a>
+
+<a href="https://leetcode.com/u/Manikanta_2223/">
+<img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=red"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ "Intelligence Evolves Through Learning"
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Adaptive+Learning+Protocols+Activated+🚀;Neural+Assessment+Engine+Online;Built+With+MERN+%2B+AI+⚡" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=140&section=footer"/>
+
+</div>
