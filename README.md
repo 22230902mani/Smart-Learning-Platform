@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=240&section=header&text=MANIHUB&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Adaptive%20Learning%20%26%20Weak%20Topic%20Detection%20System&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=240&section=header&text=MANIHUB&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Adaptive%20Learning%20Platform&descAlignY=60&descSize=20" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=AI-Powered+Learning+Platform;Adaptive+Difficulty+Engine;Weak+Topic+Detection+System;Interview+Readiness+Prediction;Personalized+Learning+Protocols" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=AI-Powered+Learning+Platform;Adaptive+Learning+Engine;Weak+Topic+Detection;Built+With+MERN+%2B+AI" />
 
 <br/><br/>
 
@@ -53,14 +53,17 @@ The system dynamically adapts to student performance, detects weak concepts, pre
 ## 🎯 Advanced Assessment Engine
 
 ### Practice Mode
+
 - Self-paced learning environment
 - Intelligent concept reinforcement
 
 ### Timed Assessment Mode
+
 - Real exam simulation
 - Performance pressure analysis
 
 ### Revision Mode
+
 - Focused weak-topic revision
 - Mistake recovery system
 
@@ -91,6 +94,7 @@ The system dynamically adapts to student performance, detects weak concepts, pre
 ### Interview Readiness Score
 
 Calculated using:
+
 - Accuracy Consistency
 - Speed Metrics
 - Improvement Trends
@@ -353,7 +357,7 @@ Full Stack & AI Developer passionate about intelligent learning systems, adaptiv
 
 # ⚡ "Intelligence Evolves Through Learning"
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Adaptive+Learning+Protocols+Activated+🚀;Neural+Assessment+Engine+Online;Built+With+MERN+%2B+AI+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Adaptive+Learning+Protocols+Activated+🚀;Neural+Assessment+Engine+Online;Built+With+MERN+%2B+AI+⚡" />
 
 <br/><br/>
 
